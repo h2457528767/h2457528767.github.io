@@ -17,5 +17,6 @@
     </div>
   {{ end }}
   {{ .Content }}
+  {{ partial "commentto.html" . }}
   {{ partial "disqus.html" . }}
 {{ end }}
