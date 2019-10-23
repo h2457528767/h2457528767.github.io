@@ -23,7 +23,7 @@ pygmentsStyle = "pygments"
 [params]
   # Header text, can be markdown
   project_name = "Github Page"
-  project_tagline = "Just for test."
+  #project_tagline = "Just for test."
 
   # Date format for post list and single pages
   # For more date formats see https://gohugo.io/functions/format/
