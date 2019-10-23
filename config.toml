@@ -22,7 +22,7 @@ pygmentsStyle = "pygments"
 
 [params]
   # Header text, can be markdown
-  project_name = "Github Page"
+  project_name = "Lee"
   #project_tagline = "Just for test."
 
   # Date format for post list and single pages
